@@ -1,6 +1,6 @@
 environment:
   name: test # prod, staging, dev, test, qa
-  project: cdf-bootcamp-23-test # ex. cdf-bootcam
+  project: cdf-bootcamp-23-test # ex. cdf-bootcamp-23-test
   validation-type: test # prod, staging
   selected:
     - modules/bootcamp/data_foundation
